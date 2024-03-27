@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+span{
+    color: rgb(200, 82, 102);
+}
